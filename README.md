@@ -1,5 +1,20 @@
 ## Date: 12-09-2026
 **Today's Work:**
+- Completed 5 array-based assignment problems.
+- Implemented Two Sum using nested loops.
+- Implemented Best Time to Buy and Sell Stock.
+- Implemented Contains Duplicate using nested loops.
+- Implemented Merge Two Sorted Arrays using two pointers.
+- Implemented Rotate Array using a new array.
+
+**Next Session Plan:**
+- Continue with the next set of assignment problems.
+
+**Issues Faced:**
+- None
+---
+## Date: 12-09-2026
+**Today's Work:**
 - Created the Java project structure for the semester.
 - Created `feature/session_1` for the first coding session.
 - Completed and tested 5 String-related assignment problems.
