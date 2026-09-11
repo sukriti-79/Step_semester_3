@@ -1,5 +1,20 @@
 ## Date: 12-09-2026
 **Today's Work:**
+- Completed 5 OOP assignment problems.
+- Simple Book Record Class using classes and objects.
+- Two Objects with separate occupancy counts.
+- Reading Java's Default Field Values.
+- Basic Constructor for a Product.
+- Counting Objects With a Static Field.
+
+**Next Session Plan:**
+- Continue with the next set of assignment problems.
+
+**Issues Faced:**
+- None
+---
+## Date: 12-09-2026
+**Today's Work:**
 - Completed 5 array-based assignment problems.
 - Product of Array Except Self using prefix and suffix products.
 - Maximum Subarray using Kadane's algorithm.
